@@ -1,0 +1,1 @@
+#include <juce_core_CompilationTime/juce_core_CompilationTime.cpp>

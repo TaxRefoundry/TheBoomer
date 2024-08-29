@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/taxrefoundry/TheBoomer/JuceLibraryCode",
+      "program": "/Users/taxrefoundry/TheBoomer/JuceLibraryCode/build/Debug/outDebug"
+    }
+        }
+  ]
+}
